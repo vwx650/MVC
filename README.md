@@ -1,1 +1,1 @@
-[MVC 게시판](https://youtu.be/tI0VRyG_m3w)
+\[MVC 게시판\](https://youtu.be/tI0VRyG\_m3w)
